@@ -1,4 +1,4 @@
-# Customer-Analysis
+<h1 align="center"> Customer Analysis </h1>
 
 In this repo we are conducting customer analysis on borrowers to develop a loaning strategy.
 ## Case Prompt:
